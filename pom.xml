@@ -500,10 +500,5 @@
             </reporting>
         </profile>
     </profiles>
-	<distributionManagement>
-  <repository>
-    <id>releases</id>
-    <url>http://34.205.2.213:8081/nexus/content/repositories/releases</url>
-  </repository>
-</distributionManagement>
+	
 </project>
